@@ -21,7 +21,7 @@ end
 
 def id_generator
 newhash = {
-  :id => :id.
+  :id => :id.object_
 }
 
 end
