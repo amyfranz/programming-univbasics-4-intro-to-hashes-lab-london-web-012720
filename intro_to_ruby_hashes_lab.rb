@@ -21,9 +21,9 @@ end
 
 def id_generator
 newhash = {
-  :id => :id.object_
+  :id => :id.object_id
 }
-
+return newhash
 end
 
 def my_hash_creator(key, value)
