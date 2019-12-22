@@ -20,8 +20,9 @@ def pioneer
 end
 
 def id_generator
-newhash = Hash.new
-
+newhash = {
+  :id => 
+}
 
 end
 
